@@ -5,8 +5,8 @@
 - Fonksiyonlar :heavy_check_mark:
 - Değişkenler ve Veri Tipleri :heavy_check_mark:
 - Matematiksel Operatörler ve Matematik İşlemleri :heavy_check_mark:
-- Diziler :x:
-- Karar Yapıları, Mantıksal Karşılaştırmalar ve Mantıksal Operatörler :x:
+- Diziler :heavy_check_mark:
+- Karar Yapıları, Mantıksal Karşılaştırmalar ve Mantıksal Operatörler :heavy_check_mark:
 - Döngüler :x:
 - Nesne Yönelimli Programlama :x:
 - Hata Ayıklama :x:
