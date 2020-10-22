@@ -1,8 +1,8 @@
 # Javascript Çalışmalarında Tutulan Notlar
 ## Javascript Konuları
 
-- Fonksiyonlar
-- Değişkenler ve Veri Tipleri
+- Fonksiyonlar :heavy_check_mark:
+- Değişkenler ve Veri Tipleri :x:
 - Matematiksel Operatörler ve Matematik İşlemleri
 - Diziler
 - Karar Yapıları, Mantıksal Karşılaştırmalar ve Mantıksal Operatörler
