@@ -1,28 +1,33 @@
 # Javascript Çalışmalarında Tutulan Notlar
+
 ## Javascript Konuları
 
 - Fonksiyonlar :heavy_check_mark:
-- Değişkenler ve Veri Tipleri :x:
-- Matematiksel Operatörler ve Matematik İşlemleri
-- Diziler
-- Karar Yapıları, Mantıksal Karşılaştırmalar ve Mantıksal Operatörler
-- Döngüler
-- Nesne Yönelimli Programlama
-- Hata Ayıklama
+- Değişkenler ve Veri Tipleri :heavy_check_mark:
+- Matematiksel Operatörler ve Matematik İşlemleri :heavy_check_mark:
+- Diziler :x:
+- Karar Yapıları, Mantıksal Karşılaştırmalar ve Mantıksal Operatörler :x:
+- Döngüler :x:
+- Nesne Yönelimli Programlama :x:
+- Hata Ayıklama :x:
+
 ### ECMASCRIPT 6 Konuları
-- Kapsam Alanları (Scope)
-- Arrow Fonskiyonlar
-- for of Döngüsü
-- Genişletilmiş Parametre Kullanımı
-- Map 
-- Set
-- Yerleşik Metotlar
-- Modüller
-- Sınıflar
-- Promise
-- Birden Fazla Asenkron Çağrı Yapmak
+
+- Kapsam Alanları (Scope) :x:
+- Arrow Fonskiyonlar :x:
+- for of Döngüsü :x:
+- Genişletilmiş Parametre Kullanımı :x:
+- Map :x:
+- Set :x:
+- Yerleşik Metotlar :x:
+- Modüller :x:
+- Sınıflar :x:
+- Promise :x:
+- Birden Fazla Asenkron Çağrı Yapmak :x:
+
 ## JQuery Konuları
-- Olay Yöneticileri
-- Seçiciler
-- Efektler
-- AJAX
+
+- Olay Yöneticileri :x:
+- Seçiciler :x:
+- Efektler :x:
+- AJAX :x:
