@@ -13,9 +13,9 @@
 
 ### ECMASCRIPT 6 Konuları
 
-- Kapsam Alanları (Scope) :x:
-- Arrow Fonskiyonlar :x:
-- for of Döngüsü :x:
+- Kapsam Alanları (Scope) :heavy_check_mark:
+- Arrow Fonskiyonlar :heavy_check_mark:
+- for of Döngüsü :heavy_check_mark: 
 - Genişletilmiş Parametre Kullanımı :x:
 - Map :x:
 - Set :x:
