@@ -16,9 +16,9 @@
 - Kapsam Alanları (Scope) :heavy_check_mark:
 - Arrow Fonskiyonlar :heavy_check_mark:
 - for of Döngüsü :heavy_check_mark: 
-- Genişletilmiş Parametre Kullanımı :x:
-- Map :x:
-- Set :x:
+- Genişletilmiş Parametre Kullanımı :heavy_check_mark: 
+- Map :heavy_check_mark: 
+- Set :heavy_check_mark: 
 - Yerleşik Metotlar :x:
 - Modüller :x:
 - Sınıflar :x:
