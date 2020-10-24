@@ -19,8 +19,8 @@
 - Genişletilmiş Parametre Kullanımı :heavy_check_mark: 
 - Map :heavy_check_mark: 
 - Set :heavy_check_mark: 
-- Yerleşik Metotlar :x:
-- Modüller :x:
+- Yerleşik Metotlar :heavy_check_mark: 
+- Modüller :heavy_check_mark: 
 - Sınıflar :x:
 - Promise :x:
 - Birden Fazla Asenkron Çağrı Yapmak :x:
