@@ -15,15 +15,15 @@
 
 - Kapsam Alanları (Scope) :heavy_check_mark:
 - Arrow Fonskiyonlar :heavy_check_mark:
-- for of Döngüsü :heavy_check_mark: 
-- Genişletilmiş Parametre Kullanımı :heavy_check_mark: 
-- Map :heavy_check_mark: 
-- Set :heavy_check_mark: 
-- Yerleşik Metotlar :heavy_check_mark: 
-- Modüller :heavy_check_mark: 
-- Sınıflar :x:
-- Promise :x:
-- Birden Fazla Asenkron Çağrı Yapmak :x:
+- for of Döngüsü :heavy_check_mark:
+- Genişletilmiş Parametre Kullanımı :heavy_check_mark:
+- Map :heavy_check_mark:
+- Set :heavy_check_mark:
+- Yerleşik Metotlar :heavy_check_mark:
+- Modüller :heavy_check_mark:
+- Sınıflar :heavy_check_mark:
+- Promise :heavy_check_mark:
+- Birden Fazla Asenkron Çağrı Yapmak :heavy_check_mark:
 
 ## JQuery Konuları
 
