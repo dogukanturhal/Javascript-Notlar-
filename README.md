@@ -25,9 +25,4 @@
 - Promise :heavy_check_mark:
 - Birden Fazla Asenkron Çağrı Yapmak :heavy_check_mark:
 
-## JQuery Konuları
-
-- Olay Yöneticileri :x:
-- Seçiciler :x:
-- Efektler :x:
-- AJAX :x:
+## Typescript Konuları
