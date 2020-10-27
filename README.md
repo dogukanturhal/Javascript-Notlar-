@@ -26,3 +26,10 @@
 - Birden Fazla Asenkron Çağrı Yapmak :heavy_check_mark:
 
 ## Typescript Konuları
+
+- Intro :heavy_check_mark:
+- Değişkenler :heavy_check_mark:
+- Fonksiyonlar :heavy_check_mark:
+- Sınıflar :heavy_check_mark:
+- Interfaceler :heavy_check_mark:
+- Generic Yapılar :heavy_check_mark:
